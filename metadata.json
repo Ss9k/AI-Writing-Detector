@@ -1,0 +1,6 @@
+{
+  "name": "AI Writing Detector",
+  "description": "Deterministic rule-based linguistic and statistical analysis tool for detecting AI-associated writing patterns and stylometric markers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
